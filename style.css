@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* color: #6c6b6b; */
+}
+
+.header-main {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  margin-bottom: 50px;
+}
+
+.header-text {
+  font-style: oblique;
+  font-size: 20px;
+  padding-top: 20px;
+  margin-left: 20px;
+
+  color: #695a5a;
+}
+
+main {
+  width: 840px;
+margin: 0 auto;
+}
+
+.blog-box {
+  width: 840px;
+  text-align: left;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+
+.blog-box-last {
+  width: 840px;
+  text-align: left;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
